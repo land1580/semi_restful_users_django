@@ -1,0 +1,22 @@
+table{
+    border: 2px solid black;
+    width: 65%;
+}
+th{
+    background-color: gray;
+    color: white;
+    margin: 0;
+    padding: 5px;
+}
+tr{
+    margin: 0;
+}
+a{
+    margin-right: 10px;
+}
+.gray{
+    background-color: gainsboro;
+}
+.red{
+    color: red;
+}
